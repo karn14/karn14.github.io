@@ -1,3 +1,5 @@
+![alt text](piyakarn.jpg)
+
 # who am i 
 + name
 * ชื่อ สกุล
