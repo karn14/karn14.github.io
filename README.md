@@ -1,4 +1,4 @@
-![alt text](piyakarn.jpg)
+![karn](piyakarn.jpg)
 
 # who am i 
 + name
