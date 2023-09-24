@@ -1,2 +1,5 @@
-# karn14.github.io
-i'm karn
+# who am i 
++ name
+* ชื่อ สกุล
+- ชื่อเล่น 
+
